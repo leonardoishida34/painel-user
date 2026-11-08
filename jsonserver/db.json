@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "nome": "joao teste",
+      "cpf": "140.111.639-61",
+      "email": "test@gmail.com",
+      "telefone": "(44) 9940-5543",
+      "dataNascimento": "20/01/2002",
+      "senha": "12345678",
+      "endereco": {
+        "cep": "87501-090",
+        "logradouro": "rua joao",
+        "numero": "1234",
+        "complemento": "",
+        "bairro": "zona 1",
+        "cidade": "umuarama",
+        "estado": "PR"
+      },
+      "id": 1
+    },
+    {
+      "nome": "leonardo",
+      "cpf": "140.111.639-61",
+      "email": "leonardoishida@gmail.com",
+      "telefone": "(44) 98824-6566",
+      "dataNascimento": "23/01/2007",
+      "senha": "123456",
+      "endereco": {
+        "cep": "87501-090",
+        "logradouro": "av celso garcia cid",
+        "numero": "3618",
+        "complemento": "",
+        "bairro": "zona 1",
+        "cidade": "umuarama",
+        "estado": "PR"
+      },
+      "id": 2
+    }
+  ]
+}

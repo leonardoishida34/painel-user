@@ -1,0 +1,18 @@
+# dependências
+node_modules
+
+# build do Next.js
+.next
+out
+
+# variáveis de ambiente (sua chave secreta fica aqui)
+.env*
+
+# logs e arquivos do sistema
+npm-debug.log*
+.DS_Store
+*.log
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
