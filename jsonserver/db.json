@@ -2,9 +2,9 @@
   "usuarios": [
     {
       "nome": "joao teste",
-      "cpf": "140.111.639-61",
+      "cpf": "529.982.247-25",
       "email": "test@gmail.com",
-      "telefone": "(44) 9940-5543",
+      "telefone": "(44) 99940-5543",
       "dataNascimento": "20/01/2002",
       "senha": "12345678",
       "endereco": {
